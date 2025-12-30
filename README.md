@@ -23,5 +23,5 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [URL]()
+- Solution URL: [URL](https://www.frontendmentor.io/learning-paths/getting-started-on-frontend-mentor-XJhRWRREZd/challenge/65e6f48617e502f0b6ca3d00/refactor)
 - Live Site URL: [URL](https://lisviks.github.io/blog_preview_card-frontendmentor/)
